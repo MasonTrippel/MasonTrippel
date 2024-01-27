@@ -1,5 +1,7 @@
 ### Hi there 👋
+My Name is Mason Trippel and I'm a Computer Engineering student at the University of Cincinnati
 
+I have experience in application development and robotics, and plan on getting into the world of automation in near future
 <!--
 **MasonTrippel/MasonTrippel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
